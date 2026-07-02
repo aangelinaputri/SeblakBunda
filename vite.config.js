@@ -12,7 +12,7 @@ export default defineConfig({
                 'resources/css/dashboard.css',
                 'resources/css/detail_pesanan_qris.css',
                 'resources/css/detail_pesanan.css',
-                'resources/css/edit_pengelaran.css',
+                'resources/css/edit_pengeluaran.css',
                 'resources/css/edit.css',
                 'resources/css/kelola_pesanan_admin.css',
                 'resources/css/laporan.css',
